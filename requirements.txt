@@ -1,0 +1,9 @@
+fastapi[standard]
+uvicorn[standard]
+PyJWT
+python-jose[cryptography]
+ldap3
+azure-identity
+azure-keyvault-secrets
+python-dotenv
+requests
